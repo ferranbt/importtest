@@ -1,4 +1,4 @@
-package importtest
+package importtest3
 
 func A() {
 
