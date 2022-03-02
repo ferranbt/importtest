@@ -1,0 +1,5 @@
+package importtest
+
+func A() {
+
+}
